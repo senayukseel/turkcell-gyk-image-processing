@@ -1,6 +1,6 @@
 # Dekupe App - PyQt5 & OpenCV ile Arka Plan Kaldırma
 
-Bu proje, kullanıcıların seçtikleri bir görselin arka planını otomatik olarak kaldırmalarını sağlayan basit bir masaüstü uygulamasıdır. Görsel işleme için **OpenCV**, kullanıcı arayüzü için **PyQt5** kullanılmıştır. 
+Bu proje, kullanıcıların seçtikleri bir görselin arka planını otomatik olarak kaldırmalarını sağlayan basit bir masaüstü uygulamasıdır. Görsel işleme için OpenCV, kullanıcı arayüzü için PyQt5 kullanılmıştır. 
 
 
 ## Özellikler
